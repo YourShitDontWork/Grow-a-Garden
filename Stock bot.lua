@@ -129,7 +129,7 @@ local function WebhookSend(Type: string, Fields: table)
 	}
 
 	local RequestData = {
-        Url = Webhook,
+        Url = https://discord.com/api/webhooks/1391720080286679141/kIGZNQ9PcHLQsc83xkVR2VuU_6CgkWNnWfro3L2Sm5qovP4ggqtOdpr2z-X_dHynKUYP,
         Method = "POST",
         Headers = {
             ["Content-Type"] = "application/json"
